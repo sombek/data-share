@@ -10,31 +10,35 @@ const Footer = () => {
                         <div className="w-full lg:w-1/5 px-3 mb-6 lg:mb-0">
                             <Link href="/">
                                 <a className="inline-block mx-auto lg:mx-0 text-3xl font-semibold leading-none">
-                                    <img className="h-10" src="/assets/imgs/logos/monst-logo.svg" alt="Monst"/>
+                                    <img className="h-10" src="/assets/imgs/logos/logo.png" alt="Monst"/>
                                 </a>
                             </Link>
                         </div>
                         <div className="w-full lg:w-2/5 px-3 mb-8 lg:mb-0">
                             <p className="max-w-md mx-auto lg:max-w-full lg:mx-0 lg:pr-32 lg:text-lg text-blueGray-400 leading-relaxed">
-                                Helping you <strong>maximize</strong> operations management with digitization
+                                نساعدك <strong>لتحسين</strong> جودة التشغيل و <strong>تحقيق</strong> أعلى مستويات
+                                الإنتاجية والأداء
                             </p>
                         </div>
                         <div className="w-full lg:w-1/5 px-3 mb-8 lg:mb-0">
-                            <p className="mb-2 lg:mb-4 lg:text-lg font-bold font-heading text-blueGray-800">Office</p>
-                            <p className="lg:text-lg text-blueGray-400">359 Hidden Valley Road, NY</p>
+                            <p className="mb-2 lg:mb-4 lg:text-lg font-bold font-heading text-blueGray-800">موقعنا</p>
+                            <p className="lg:text-lg text-blueGray-400">
+                                المملكة العربية السعودية - الرياض
+                            </p>
                         </div>
                         <div className="w-full lg:w-1/5 px-3">
-                            <p className="mb-2 lg:mb-4 lg:text-lg font-bold font-heading text-blueGray-800">Contacts</p>
-                            <p className="lg:text-lg text-blueGray-400">(+01) 234 568</p>
-                            <p className="lg:text-lg text-blueGray-400">contact@monst.com</p>
+                            <p className="mb-2 lg:mb-4 lg:text-lg font-bold font-heading text-blueGray-800">تواصل</p>
+                            <a href="tel:+966595585131" className="hover:text-blueGray-800">
+                                <p className="lg:text-lg text-blueGray-400">
+                                    0595585131
+                                </p>
+                            </a>
+                            <p className="lg:text-lg text-blueGray-400">abdullah97hashim@gmail.com</p>
                         </div>
                     </div>
                     <div className="flex flex-col lg:flex-row items-center lg:justify-between">
                         <p className="text-sm text-blueGray-400">
-                            &copy; 2022. All rights reserved. Designed by{" "}
-                            <a className="text-blue-400" href="https://alithemes.com" target="_blank">
-                                Alithemes.com
-                            </a>
+                            © {new Date().getFullYear()} جميع الحقوق محفوظة
                         </p>
                         <div className="order-first lg:order-last -mx-2 mb-4 lg:mb-0">
                             <a className="inline-block px-2" href="https://facebook.com">

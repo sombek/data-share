@@ -404,7 +404,7 @@ const About = () => {
                         <div className="relative flex flex-wrap -mx-4">
                             <div className="w-full lg:w-1/2 pt-20 px-4 max-w-lg lg:max-w-full mx-auto lg:mx-0 text-center lg:text-left">
                                 <Link href="/"><a className="inline-block mx-auto lg:ml-0 text-3xl font-semibold leading-none wow animate__animatedanimated animate__fadeIn animated" data-wow-delay=".1s">
-                                    <img className="h-10" src="/assets/imgs/logos/monst-logo.svg" alt="Monst" />
+                                    <img className="h-10" src="/assets/imgs/logos/logo.png" alt="Monst" />
                                 </a></Link>
                                 <div className="mt-12 mb-16">
                                     <p className="mb-4 text-xs text-blueGray-400 text-center lg:text-left wow animate__animatedanimated animate__fadeIn animated" data-wow-delay=".1s">Subscribe and stay fully connected with product.</p>
