@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/layout/Layout';
 import {Disclosure} from "@headlessui/react";
-import {ChevronUpIcon, PlusCircleIcon} from "@heroicons/react/outline";
+import {PlusCircleIcon} from "@heroicons/react/outline";
 
 const Faqs = () => {
     return (

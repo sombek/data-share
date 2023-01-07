@@ -1,6 +1,5 @@
 import Link from "next/link";
-import React from "react";
-import {useState, useEffect} from "react";
+import React, {useEffect, useState} from "react";
 
 const Header = ({handleHidden}) => {
     const [scroll, setScroll] = useState(0)
