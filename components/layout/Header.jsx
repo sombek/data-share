@@ -1,20 +1,20 @@
 import Link from "next/link";
 import React from "react";
-import { useState, useEffect } from "react";
+import {useState, useEffect} from "react";
 
 const Header = ({handleHidden}) => {
     const [scroll, setScroll] = useState(0)
     useEffect(() => {
         document.addEventListener("scroll", () => {
-          const scrollCheck = window.scrollY > 100
-          if (scrollCheck !== scroll) {
-            setScroll(scrollCheck)
-          }
+            const scrollCheck = window.scrollY > 100
+            if (scrollCheck !== scroll) {
+                setScroll(scrollCheck)
+            }
         })
-      })
+    })
     return (
         <>
-            <header className={scroll ? "bg-transparent sticky-bar mt-4 stick": "bg-transparent sticky-bar mt-4"}>
+            <header className={scroll ? "bg-transparent sticky-bar mt-4 stick" : "bg-transparent sticky-bar mt-4"}>
                 <div className="container bg-transparent">
                     <nav className="bg-transparent flex justify-between items-center py-3">
                         <Link href="/">
@@ -192,7 +192,9 @@ const Header = ({handleHidden}) => {
                             </Link>
                         </div>
                         <div className="lg:hidden">
-                            <button className="navbar-burger flex items-center py-2 px-3 text-blue-500 hover:text-blue-700 rounded border border-blue-200 hover:border-blue-300" onClick={handleHidden}>
+                            <button
+                                className="navbar-burger flex items-center py-2 px-3 text-blue-500 hover:text-blue-700 rounded border border-blue-200 hover:border-blue-300"
+                                onClick={handleHidden}>
                                 <svg
                                     className="fill-current h-4 w-4"
                                     viewbox="0 0 20 20"

@@ -1,11 +1,11 @@
 import Head from "next/head";
-import React, { useState } from "react";
+import React, {useState} from "react";
 import BackToTop from "../elements/BackToTop";
 import Footer from "./Footer";
 import Header from "./Header";
 import MobileMenu from "./MobileMenu";
 
-const Layout = ({ children }) => {
+const Layout = ({children}) => {
     const [hiddenClass, setHiddenClass] = useState("hidden");
 
     const handleHidden = () => setHiddenClass("");
@@ -20,7 +20,7 @@ const Layout = ({ children }) => {
         <>
             <Head>
                 <title>Monst - NextJs Tailwind CSS Landing Page</title>
-                <link rel="preconnect" href="https://fonts.googleapis.com" />
+                <link rel="preconnect" href="https://fonts.googleapis.com"/>
                 <link
                     rel="preconnect"
                     href="https://fonts.gstatic.com"
@@ -39,14 +39,14 @@ const Layout = ({ children }) => {
                 <script>new WOW().init();</script>
             </Head>
             <div className="main font-body text-body">
-                <Header handleHidden={handleHidden} />
+                <Header handleHidden={handleHidden}/>
                 <MobileMenu
                     hiddenClass={hiddenClass}
                     handleRemove={handleRemove}
                 />
                 {children}
-                <Footer />
-                <BackToTop />
+                <Footer/>
+                <BackToTop/>
             </div>
         </>
     );

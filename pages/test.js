@@ -5,7 +5,7 @@ const Test = () => {
     return (
         <>
 
-            <CounterUp count={950} time={3} />
+            <CounterUp count={950} time={3}/>
 
 
         </>

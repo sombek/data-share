@@ -1,5 +1,5 @@
 import React from "react";
-import { Collapse } from "react-collapse";
+import {Collapse} from "react-collapse";
 
 class DropdownItem extends React.Component {
     state = {
@@ -17,7 +17,7 @@ class DropdownItem extends React.Component {
     render() {
         return (
             <div id={this.props.id}>
-                <div >
+                <div>
                     <div>{this.props.title}</div>
                     <button onClick={this.onDropdownClicked}>
                         {this.state.dropdownToggleIcon}

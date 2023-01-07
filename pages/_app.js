@@ -1,10 +1,10 @@
 import '../public/assets/css/animate.min.css'
-import React, { useEffect, useState } from "react";
+import React, {useEffect, useState} from "react";
 import '../public/assets/css/tailwind-built.css'
 import Preloader from '../components/elements/Preloader';
 import "swiper/css";
 
-function MyApp({ Component, pageProps }) {
+function MyApp({Component, pageProps}) {
 
     const [loading, setLoading] = useState(false);
     useEffect(() => {
@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
             {!loading ? (
                 <Component {...pageProps} />
             ) : (
-                <Preloader />
+                <Preloader/>
             )}
         </>
     )

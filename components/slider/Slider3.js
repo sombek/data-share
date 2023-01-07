@@ -1,5 +1,5 @@
-import SwiperCore, { Navigation } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
+import SwiperCore, {Navigation} from "swiper";
+import {Swiper, SwiperSlide} from "swiper/react";
 
 SwiperCore.use([Navigation]);
 
@@ -18,15 +18,15 @@ const Slider3 = () => {
             >
 
                 <SwiperSlide>
-                    <img className="rounded" src="/assets/imgs/placeholders/mockup-1.png" alt="Monst" />
+                    <img className="rounded" src="/assets/imgs/placeholders/mockup-1.png" alt="Monst"/>
                 </SwiperSlide>
                 <SwiperSlide>
 
-                    <img className="rounded" src="/assets/imgs/placeholders/mockup-2.png" alt="Monst" />
+                    <img className="rounded" src="/assets/imgs/placeholders/mockup-2.png" alt="Monst"/>
                 </SwiperSlide>
                 <SwiperSlide>
 
-                    <img className="rounded" src="/assets/imgs/placeholders/mockup-3.png" alt="Monst" />
+                    <img className="rounded" src="/assets/imgs/placeholders/mockup-3.png" alt="Monst"/>
                 </SwiperSlide>
             </Swiper>
 
