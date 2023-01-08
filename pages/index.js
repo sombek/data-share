@@ -13,18 +13,18 @@ function Home() {
                             <div className="w-full lg:w-3/5 px-3 mb-12 lg:mb-0">
                                 <div className="lg:h-128 flex items-center justify-center">
                                     <img className="lg:max-w-lg" src="/assets/imgs/illustrations/work-tv.png"
-                                         alt="Monst"/>
+                                         alt="DataShare"/>
                                 </div>
                             </div>
                             <div className="w-full lg:w-2/5 px-3">
                                 <div className="max-w-lg lg:max-w-md mx-auto lg:mx-0 mb-8 text-center lg:text-right">
-                                    <h2 className="text-3xl lg:text-5xl mb-4 font-bold font-heading wow animate__animated animate__fadeIn">
+                                    <h1 className="text-3xl lg:text-5xl mb-4 font-bold font-heading wow animate__animated animate__fadeIn">
                                         مشاركة
 
                                         <span className="text-blue-500"> الملفات </span>
 
                                         عبر الكلاود في السعودية 🇸🇦
-                                    </h2>
+                                    </h1>
                                     <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
                                         تقدم <strong className="text-blue-500">داتاشير</strong>,
                                         خدمة تخزين ومشاركة الملفات عبر الكلاود بأمان وسهولة
@@ -67,7 +67,7 @@ function Home() {
                         </div>
                         <div className="relative max-w-6xl mx-auto wow animate__animated animate__fadeIn"
                              data-wow-delay=".3s">
-                            <img src="/assets/imgs/elements/macbook.png" alt="Monst"/>
+                            <img src="/assets/imgs/elements/macbook.png" alt="DataShare"/>
                             <div className="absolute"
                                  style={{top: "5.8%", left: "14.6%", width: "72.8%", height: "76.7%"}}>
                                 <div className="relative w-full">

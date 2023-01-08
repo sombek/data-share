@@ -11,7 +11,7 @@ const Faqs = () => {
                          style={{backgroundImage: 'url("assets/imgs/backgrounds/intersect.svg")'}}>
                     <div className="container">
                         <img className="mx-auto sm:max-w-sm mb-10 wow animate__animated animate__fadeIn"
-                             data-wow-delay=".1s" src="assets/imgs/illustrations/eating.svg" alt="Monst"/>
+                             data-wow-delay=".1s" src="assets/imgs/illustrations/eating.svg" alt="DataShare"/>
                         <form
                             className="flex justify-center max-w-3xl mx-auto mb-16 wow animate__animated animate__fadeIn"
                             data-wow-delay=".3s">
@@ -320,7 +320,7 @@ const Faqs = () => {
                                     </svg>
                                     <div className="leading-relaxed">
                                         <span className="text-sm text-blueGray-400">E-mail</span>
-                                        <p>contact@monst.com</p>
+                                        <p>contact@DataShare.com</p>
                                         <p>pat@example.com</p>
                                     </div>
                                 </div>

@@ -11,7 +11,7 @@ const Login = () => {
                         <div className="flex items-center h-full wow animate__animated animate__fadeIn animated"
                              data-wow-delay=".1s">
                             <img className="lg:max-w-lg mx-auto" src="/assets/imgs/illustrations/space.svg"
-                                 alt="Monst"/>
+                                 alt="DataShare"/>
                         </div>
                     </div>
                     <div className="container">

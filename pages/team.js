@@ -47,7 +47,7 @@ const Team = () => {
                                     data-wow-delay=".1s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-1.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-1.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Geraldine Tusoy</strong>
                                             <p className="text-gray-500 text-xs mt-3">CEO, Co Founders</p>
@@ -58,10 +58,10 @@ const Team = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@ const Team = () => {
                                     data-wow-delay=".3s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-2.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-2.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Clara Kolawole</strong>
                                             <p className="text-gray-500 text-xs mt-3">CEO-Founder</p>
@@ -83,10 +83,10 @@ const Team = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@ const Team = () => {
                                     data-wow-delay=".5s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-3.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-3.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Chris Fulton</strong>
                                             <p className="text-gray-500 text-xs mt-3">Project-Manager</p>
@@ -108,10 +108,10 @@ const Team = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>
@@ -122,7 +122,7 @@ const Team = () => {
                                     data-wow-delay=".7s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-4.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-4.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Dany Connolly</strong>
                                             <p className="text-gray-500 text-xs mt-3">Direct-Founder</p>
@@ -133,13 +133,13 @@ const Team = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>

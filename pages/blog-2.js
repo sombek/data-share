@@ -68,7 +68,7 @@ const Blog2 = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-6.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-6.png" alt="DataShare"/>
                                     </a>
                                 </Link>
                             </div>
@@ -106,7 +106,7 @@ const Blog2 = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-7.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-7.png" alt="DataShare"/>
                                     </a>
                                 </Link>
                             </div>
@@ -144,7 +144,7 @@ const Blog2 = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-8.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-8.png" alt="DataShare"/>
                                     </a>
                                 </Link>
                             </div>
@@ -182,7 +182,7 @@ const Blog2 = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-9.jpg" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-9.jpg" alt="DataShare"/>
                                     </a>
                                 </Link>
                             </div>

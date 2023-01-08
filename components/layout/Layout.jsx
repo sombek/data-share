@@ -27,10 +27,19 @@ const Layout = ({children}) => {
                 />
                 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@300;400;500;600&display=swap"
                       rel="stylesheet"/>
-                <link
-                    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap"
-                    rel="stylesheet"
-                />
+                {/*Generate meta info*/}
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                <meta name="description"
+                      content="تجربة مشاركة ملفات سريعة وآمنة مع خدمتنا. مع واجهة المستخدم المبسطة والميزات المتقدمة، يمكنك بسهولة مشاركة الملفات مع الزملاء والعملاء والأصدقاء. تدعم إجراءات الأمان الحديثة ملفاتك بأمان وخصوصية. ابدأ مشاركة ملفاتك اليوم مع داتاشير"/>
+                <meta name="keywords"
+                      content="مشاركة الملفات تشغيل سعودي موثوق خدمات سعودية علي بابا كلاود قوقل درايف سعودي"/>
+
+                <meta name="apple-mobile-web-app-status-bar-style" content="#000000"/>
+                <meta name="apple-mobile-web-app-capable" content="yes"/>
+
+                <meta name="robots" content="index, follow"/>
+                <meta name="googlebot" content="index, follow"/>
+                <meta name="google" content="notranslate"/>
 
                 <script
                     src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"

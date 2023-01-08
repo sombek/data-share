@@ -16,10 +16,10 @@ const Testimonials = () => {
                                 <div
                                     className="absolute top-0 right-0 h-full w-full mt-6 -mr-6 bg-blueGray-100 rounded-xl"></div>
                                 <img className="absolute top-0 right-0 h-full w-full rounded-xl object-cover object-top"
-                                     src="/assets/imgs/placeholders/img-1.png" alt="Monst"/>
+                                     src="/assets/imgs/placeholders/img-1.png" alt="DataShare"/>
                             </div>
                             <div className="w-full lg:w-1/2 lg:pl-24 my-auto">
-                                <img src="/assets/imgs/icons/quote.svg" alt="Monst"
+                                <img src="/assets/imgs/icons/quote.svg" alt="DataShare"
                                      className="wow animate__animated animate__fadeIn" data-wow-delay=".2s"/>
                                 <h2 className="my-4 text-4xl font-bold font-heading wow animate__animated animate__fadeIn"
                                     data-wow-delay=".3s">Maecenas nibh purus, pharetra ac felis sed, elementum molestie
@@ -35,24 +35,24 @@ const Testimonials = () => {
                         <div className="flex flex-wrap items-center justify-center max-w-4xl mx-auto pt-4 pb-4">
                             <div className="w-1/2 md:w-1/3 lg:w-1/5 px-8 mb-8 wow animate__animated animate__fadeIn"
                                  data-wow-delay=".1s">
-                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-1.png" alt="Monst"/>
+                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-1.png" alt="DataShare"/>
                             </div>
                             <div className="w-1/2 md:w-1/3 lg:w-1/5 px-8 mb-8 wow animate__animated animate__fadeIn"
                                  data-wow-delay=".3s">
-                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-2.png" alt="Monst"/>
+                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-2.png" alt="DataShare"/>
                             </div>
                             <div className="w-1/2 md:w-1/3 lg:w-1/5 px-8 mb-8 wow animate__animated animate__fadeIn"
                                  data-wow-delay=".5s">
-                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-3.png" alt="Monst"/>
+                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-3.png" alt="DataShare"/>
                             </div>
                             <div className="w-1/2 md:w-1/3 lg:w-1/5 px-8 mb-8 wow animate__animated animate__fadeIn"
                                  data-wow-delay=".7s">
-                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-4.png" alt="Monst"/>
+                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-4.png" alt="DataShare"/>
                             </div>
                             <div
                                 className="hidden md:block w-1/2 md:w-1/3 lg:w-1/5 px-8 mb-8 wow animate__animated animate__fadeIn"
                                 data-wow-delay=".9s">
-                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-5.png" alt="Monst"/>
+                                <img className="mx-auto" src="/assets/imgs/logos/brands/brand-5.png" alt="DataShare"/>
                             </div>
                         </div>
                     </div>
@@ -61,7 +61,7 @@ const Testimonials = () => {
                          style={{"backgroundImage": "url('assets/imgs/backgrounds/intersect.svg')"}}>
                     <div className="container">
                         <div className="max-w-lg mx-auto mb-12 text-center">
-                            <img className="mx-auto" src="/assets/imgs/icons/quote.svg" alt="Monst"/>
+                            <img className="mx-auto" src="/assets/imgs/icons/quote.svg" alt="DataShare"/>
                             <h2 className="my-2 text-3xl md:text-4xl font-bold font-heading">Our Customers Very Happy
                                 With Our Services</h2>
                             <p className="text-blueGray-400 leading-loose">Lorem ipsum dolor sit amet, consectetur
@@ -74,7 +74,7 @@ const Testimonials = () => {
                                     data-wow-delay=".1s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-1.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-1.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Geraldine Tusoy</strong>
                                             <p className="text-gray-500 text-xs mt-3">CEO, Co Founders</p>
@@ -85,10 +85,10 @@ const Testimonials = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@ const Testimonials = () => {
                                     data-wow-delay=".3s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-2.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-2.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Clara Kolawole</strong>
                                             <p className="text-gray-500 text-xs mt-3">CEO-Founder</p>
@@ -110,10 +110,10 @@ const Testimonials = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>
@@ -124,7 +124,7 @@ const Testimonials = () => {
                                     data-wow-delay=".5s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-3.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-3.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Chris Fulton</strong>
                                             <p className="text-gray-500 text-xs mt-3">Project-Manager</p>
@@ -135,10 +135,10 @@ const Testimonials = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@ const Testimonials = () => {
                                     data-wow-delay=".7s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-4.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-4.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Dany Connolly</strong>
                                             <p className="text-gray-500 text-xs mt-3">Direct-Founder</p>
@@ -160,13 +160,13 @@ const Testimonials = () => {
                                         hendrerit pulvinar. Vestibulum non quam velit.</p>
                                     <div className="flex space-x-2">
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="DataShare"/>
                                         </a>
                                         <a href="#">
-                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst"/>
+                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="DataShare"/>
                                         </a>
                                     </div>
                                 </div>
@@ -177,7 +177,7 @@ const Testimonials = () => {
                                     data-wow-delay=".7s">
                                     <div className="flex items-center mb-4">
                                         <img className="h-16 w-16 rounded-full object-cover"
-                                             src="/assets/imgs/placeholders/avatar-5.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/avatar-5.png" alt="DataShare"/>
                                         <div className="pl-4">
                                             <strong className="mt-6 mb-2 text-md">Dany Connolly</strong>
                                             <p className="text-gray-500 text-xs mt-3">Direct-Founder</p>

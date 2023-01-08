@@ -42,7 +42,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-6.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-6.png" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">
@@ -68,7 +68,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-7.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-7.png" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">
@@ -98,7 +98,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-8.png" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-8.png" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">
@@ -124,7 +124,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-9.jpg" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-9.jpg" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">
@@ -150,7 +150,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-10.jpg" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-10.jpg" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">
@@ -176,7 +176,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-11.jpg" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-11.jpg" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">
@@ -202,7 +202,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-12.jpg" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-12.jpg" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">
@@ -228,7 +228,7 @@ const Blog = () => {
                                 <Link href="/blog-single">
                                     <a>
                                         <img className="h-80 w-full object-cover rounded"
-                                             src="/assets/imgs/placeholders/img-13.jpg" alt="Monst"/>
+                                             src="/assets/imgs/placeholders/img-13.jpg" alt="DataShare"/>
                                     </a>
                                 </Link>
                                 <p className="mt-6 text-sm text-blue-400">

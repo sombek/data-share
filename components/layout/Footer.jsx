@@ -10,7 +10,7 @@ const Footer = () => {
                         <div className="w-full lg:w-1/5 px-3 mb-6 lg:mb-0">
                             <Link href="/">
                                 <a className="inline-block mx-auto lg:mx-0 text-3xl font-semibold leading-none">
-                                    <img className="h-10" src="/assets/imgs/logos/logo.png" alt="Monst"/>
+                                    <img className="h-10" src="/assets/imgs/logos/logo.png" alt="DataShare"/>
                                 </a>
                             </Link>
                         </div>
@@ -42,7 +42,7 @@ const Footer = () => {
                         </p>
                         <div className="order-first lg:order-last -mx-2 mb-4 lg:mb-0">
                             <a className="inline-block px-2" href="https://facebook.com">
-                                <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst"/>
+                                <img src="/assets/imgs/icons/facebook-blue.svg" alt="DataShare"/>
                             </a>
                             <a className="inline-block px-2" href="https://twitter.com">
                                 <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst"/>

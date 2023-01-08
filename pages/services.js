@@ -44,7 +44,7 @@ const Services = () => {
                                 className="w-full md:w-1/2 pr-12 px-3 order-0 md:order-0 mb-12 md:mb-0 wow animate__animated animate__fadeIn"
                                 data-wow-delay=".5s">
                                 <img className="sm:max-w-sm lg:max-w-full mx-auto"
-                                     src="/assets/imgs/placeholders/img-6.jpg" alt="Monst"/>
+                                     src="/assets/imgs/placeholders/img-6.jpg" alt="DataShare"/>
                             </div>
                             <div className="w-full md:w-1/2 px-3 order-1 md:order-1">
                                 <div className="max-w-md-2">
@@ -239,7 +239,7 @@ const Services = () => {
                                         className="flex w-12 h-12 mx-auto items-center justify-center text-blue-800 font-bold font-heading bg-blue-200 rounded-full">1
                                     </div>
                                     <img className="h-36 mx-auto my-4" src="/assets/imgs/illustrations/eating.svg"
-                                         alt="Monst"/>
+                                         alt="DataShare"/>
                                     <h3 className="mb-2 font-bold font-heading text-xl">Project Initialization</h3>
                                     <p className="text-sm text-blueGray-400 leading-relaxed">Project initiation ensures
                                         that you lay a strong foundation for a new project in your company our team.</p>

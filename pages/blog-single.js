@@ -26,7 +26,7 @@ const BlogSingle = () => {
                                 </div>
                                 <div className="flex justify-center mb-8">
                                     <img className="w-12 h-12 object-cover rounded-full"
-                                         src="/assets/imgs/placeholders/avatar-8.png" alt="Monst"/>
+                                         src="/assets/imgs/placeholders/avatar-8.png" alt="DataShare"/>
                                     <div className="pl-4">
                                         <p className="text-blueGray-100 mb-1">Alice Bradley</p>
                                         <p className="text-xs text-blueGray-200 font-semibold">Co Founders</p>
@@ -101,7 +101,7 @@ const BlogSingle = () => {
                                         data-wow-delay=".1s">
                                         <div className="flex items-center mb-4">
                                             <img className="h-16 w-16 rounded-full object-cover"
-                                                 src="/assets/imgs/placeholders/avatar-1.png" alt="Monst"/>
+                                                 src="/assets/imgs/placeholders/avatar-1.png" alt="DataShare"/>
                                             <div className="pl-4">
                                                 <strong className="mt-6 mb-1 text-md">Geraldine Tusoy</strong>
                                                 <p className="text-xs mt-3">CEO, Co Founders</p>
@@ -120,7 +120,7 @@ const BlogSingle = () => {
                                     <div className="flex">
                                         <div className="flex-shrink-0 mr-3">
                                             <img className="mt-2 rounded-full w-8 h-8 sm:w-10 sm:h-10"
-                                                 src="/assets/imgs/placeholders/avatar-2.png" alt="Monst"/>
+                                                 src="/assets/imgs/placeholders/avatar-2.png" alt="DataShare"/>
                                         </div>
                                         <div
                                             className="flex-1 border border-gray-100 rounded-lg px-4 py-2 sm:px-6 sm:py-4 leading-relaxed">
@@ -132,9 +132,9 @@ const BlogSingle = () => {
                                             <div className="mt-4 flex items-center">
                                                 <div className="flex -space-x-2 mr-2">
                                                     <img className="rounded-full w-6 h-6 border border-white"
-                                                         src="/assets/imgs/placeholders/avatar-3.png" alt="Monst"/>
+                                                         src="/assets/imgs/placeholders/avatar-3.png" alt="DataShare"/>
                                                     <img className="rounded-full w-6 h-6 border border-white"
-                                                         src="/assets/imgs/placeholders/avatar-4.png" alt="Monst"/>
+                                                         src="/assets/imgs/placeholders/avatar-4.png" alt="DataShare"/>
                                                 </div>
                                                 <div className="text-sm text-gray-500 font-semibold">5 Replies</div>
                                             </div>
@@ -143,7 +143,7 @@ const BlogSingle = () => {
                                     <div className="flex">
                                         <div className="flex-shrink-0 mr-3">
                                             <img className="mt-2 rounded-full w-8 h-8 sm:w-10 sm:h-10"
-                                                 src="/assets/imgs/placeholders/avatar-5.png" alt="Monst"/>
+                                                 src="/assets/imgs/placeholders/avatar-5.png" alt="DataShare"/>
                                         </div>
                                         <div
                                             className="flex-1 border border-gray-100 rounded-lg px-4 py-2 sm:px-6 sm:py-4 leading-relaxed">
@@ -157,7 +157,8 @@ const BlogSingle = () => {
                                                 <div className="flex">
                                                     <div className="flex-shrink-0 mr-3">
                                                         <img className="mt-3 rounded-full w-6 h-6 sm:w-8 sm:h-8"
-                                                             src="/assets/imgs/placeholders/avatar-6.png" alt="Monst"/>
+                                                             src="/assets/imgs/placeholders/avatar-6.png"
+                                                             alt="DataShare"/>
                                                     </div>
                                                     <div
                                                         className="flex-1 bg-gray-50 rounded-lg px-4 py-2 sm:px-6 sm:py-4 leading-relaxed">
@@ -172,7 +173,8 @@ const BlogSingle = () => {
                                                 <div className="flex">
                                                     <div className="flex-shrink-0 mr-3">
                                                         <img className="mt-3 rounded-full w-6 h-6 sm:w-8 sm:h-8"
-                                                             src="/assets/imgs/placeholders/avatar-7.png" alt="Monst"/>
+                                                             src="/assets/imgs/placeholders/avatar-7.png"
+                                                             alt="DataShare"/>
                                                     </div>
                                                     <div
                                                         className="flex-1 bg-gray-50 rounded-lg px-4 py-2 sm:px-6 sm:py-4 leading-relaxed">
