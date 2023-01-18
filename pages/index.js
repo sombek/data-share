@@ -37,12 +37,12 @@ function Home() {
                                 </div>
                                 <div className="text-center lg:text-right">
                                     <a className="tracking-wide hover-up-2 block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-500 hover:bg-blue-700 rounded wow animate__animated animate__fadeIn"
-                                       href="#key-features">
-                                        اهم المميزات
+                                       href="#how-we-work">
+                                        تجربة مجانية
                                     </a>
                                     <a className="block sm:inline-block hover-up-2 py-4 px-8 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white border border-blueGray-200 hover:border-blueGray-300 rounded wow animate__animated animate__fadeIn"
-                                       data-wow-delay=".3s" href="#how-we-work">
-                                        كيف نعمل؟
+                                       data-wow-delay=".3s" href="#key-features">
+                                        اهم المميزات
                                     </a>
                                 </div>
                             </div>
@@ -65,17 +65,47 @@ function Home() {
                                 عن طريق تجربة خدماتنا الكاملة والمجانية
                             </p>
                         </div>
-                        <div className="relative max-w-6xl mx-auto wow animate__animated animate__fadeIn"
-                             data-wow-delay=".3s">
-                            <img src="/assets/imgs/elements/macbook.png" alt="DataShare"/>
-                            <div className="absolute"
-                                 style={{top: "5.8%", left: "14.6%", width: "72.8%", height: "76.7%"}}>
-                                <div className="relative w-full">
-                                    <div className="carausel-fade-2 slick-carausel dot-style-1" id="carausel-fade-2-1">
-                                        <Slider3/>
+                        {/*Click here to got to the demo page*/}
+                        <div className="flex flex-wrap items-center -mx-3">
+                            <div className="relative max-w-6xl mx-auto wow animate__animated animate__fadeIn"
+                                 data-wow-delay=".3s">
+                                <img src="/assets/imgs/elements/macbook.png" alt="DataShare"/>
+                                <div className="absolute"
+                                     style={{top: "5.8%", left: "14.6%", width: "72.8%", height: "76.7%"}}>
+                                    <div className="relative w-full">
+                                        <div className="carausel-fade-2 slick-carausel dot-style-1"
+                                             id="carausel-fade-2-1">
+                                            <Slider3/>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                        <div className="w-full">
+                            <div className="text-center">
+                                {/*Username*/}
+                                <span>إسم المستخدم:</span>
+
+                                <div className="flex items-center justify-center">
+                                    <h4>user@demo.com</h4>
+                                </div>
+                                {/*Password*/}
+                                <span>كلمة المرور:</span>
+                                <div className="flex items-center justify-center">
+                                    <h4>123_demo</h4>
+                                </div>
+
+                            </div>
+                            <div className="text-center lg:text-right">
+                                <a className="tracking-wide hover-up-2 block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-500 hover:bg-blue-700 rounded wow animate__animated animate__fadeIn"
+                                   href="https://demo.data-share.io/" target="_blank">
+                                    تجربة الخدمة
+                                </a>
+                            </div>
+                            <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn"
+                               style={{textAlign: 'center'}}>
+                                تستطيع تجربة خدماتنا بسهولة وبدون تسجيل
+                            </p>
                         </div>
                     </div>
                 </section>
